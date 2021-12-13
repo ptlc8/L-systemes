@@ -1,0 +1,6 @@
+niveau = 2
+regles =
+  "a=bb+bb*{aaaa+a+a+a+a--a+a+a+a+aaa}*b+bb"
+angle = 45
+taille = 8
+axiome = "1111111111a"

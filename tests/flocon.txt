@@ -1,0 +1,6 @@
+axiome = "!!a*b*+a*b*+a*b*+a*b*+a*b*+a*b*"
+regles =
+  "a=a(?5513-[a]+[a]+[a]-4266!)"
+niveau = 4
+angle = 60
+taille = 100

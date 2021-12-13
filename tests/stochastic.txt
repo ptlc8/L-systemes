@@ -1,0 +1,7 @@
+axiome = "yyy"
+regles = 
+  "x=x[-aaa][+aaa]ax"
+  "y=yax[+y][-y]"
+niveau = 3
+angle = 30
+taille = 7
